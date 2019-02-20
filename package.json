@@ -1,0 +1,19 @@
+{
+  "name": "final-t1-davidtsiklauri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/final-t1-Davidtsiklauri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-Davidtsiklauri/issues"
+  },
+  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-Davidtsiklauri#readme"
+}
