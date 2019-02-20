@@ -5,10 +5,7 @@ function* idMaker() {
         yield index=index+2;
 }
 
-var gen = idMaker();
-console.log(gen.next().value);
-console.log(gen.next().value); 
-console.log(gen.next().value); 
+var gen = idMaker()
 for(let i = gen.next().value ;i<=10;i=i+2){
 console.log(i);
 
